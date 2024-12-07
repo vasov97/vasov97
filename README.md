@@ -15,6 +15,7 @@
 - 👔 [Upwork](https://www.upwork.com/freelancers/stefanvasov)
 - 🌐 [Portfolio](https://vasov97.github.io/)
 - 🧡 Fun facts: In love with nature, sports and dogs
+- ⚠️ Client projects I can't show, personal production apps are on private repo (DM on linkedin)
 
 ## Tech Stack
 
